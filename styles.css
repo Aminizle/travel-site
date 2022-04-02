@@ -179,6 +179,32 @@
     color: var(--overlay-color);
 }
 
+.socialMenu {
+    position: absolute;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    top: 10px;
+}
+
+.socialMenu li {
+    list-style: none;
+}
+
+.socialMenu li a {
+    display: inline-block;
+    color: #fff;
+    margin-right: 20px;
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+
+.socialMenu li a:hover {
+    transform: scale(2) translateY(-10px);
+}
+
+}
 @media(max-width: 798px) {
     .showcase, .showcase header {
         padding: 40px;
