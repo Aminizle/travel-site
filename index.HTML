@@ -20,30 +20,33 @@
 
         <div class="text">
             <h2>Never Stop</h2>
-            <h3>Eploring The World</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat rem pariatur alias maiores natus explicabo temporibus commodi! Numquam, nihil dignissimos.</p>
-            <a href="#">Explore</a>
+            <h3>Exloring The World</h3>
+            <p>“The most beautiful thing in the world is, of course, the world itself”
+                <br> – Wallace Stevens</p>
+            <a href="https://ameenmohiyuddin.netlify.app/" target="blank">Explore my full portfolio</a>
         </div>
 
         <ul class="social">
-            <li><a href=""><i class="fab fa-twitter"></i></a></li>
-            <li><a href=""><i class="fab fa-youtube"></i></a></li>
-            <li><a href=""><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="https://twitter.com/DevAmeenM" target="blank"><i class="fab fa-twitter"></i></a></li>
+            <li><a href="https://www.youtube.com/channel/UCtnzaJeLTPhhH6jolpdGhpw" target="blank"><i class="fab fa-youtube"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/ameen-mohiyuddin-413bab197/" target="blank"><i class="fab fa-linkedin"></i></a></li>
         </ul>
     </section>
 
     <div class="menu">
     <ul>
-        <li><a href="#">Home</a></li>
+        <li class="home"><a href="#">Home</a></li>
         <li><a href="#">News</a></li>
         <li><a href="#">Destination</a></li>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Contact Us!</a></li>
     </ul>
 </div>
+
 <script>
     const menuToggle = document.querySelector('.toggle')
     const showcaseToggle = document.querySelector('.showcase')
+    const homeToggle = document.querySelector('.home')
 
     menuToggle.addEventListener('click', () => {
         menuToggle.classList.toggle('active')
@@ -51,6 +54,10 @@
     showcaseToggle.addEventListener('click', () => {
         showcaseToggle.classList.toggle('active')
     })
+    homeToggle.addEventListener('click', () => {
+        showcaseToggle.classList.toggle('active')
+    })
 </script>
+
 </body>
 </html>
