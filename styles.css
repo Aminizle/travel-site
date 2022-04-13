@@ -82,6 +82,7 @@
     height: 100%;
     background: var(--overlay-color);
     mix-blend-mode: overlay;
+    box-shadow: 10px 11px 41px 12px rgba(45,112,117,0.79);
 }
 
 .text {
