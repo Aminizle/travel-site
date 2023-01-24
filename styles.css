@@ -213,8 +213,8 @@
     transform: scale(2) translateY(-5px);
 }
 
-}
-@media(max-width: 798px) {
+
+@media all and (max-width: 798px) {
     .showcase, .showcase header {
         padding: 40px;
     }
