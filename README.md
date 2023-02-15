@@ -21,7 +21,8 @@
     
     <h2>Getting Started</h2>
     <p>To get started with this project, simply clone the repository and open the <code>index.html</code> file in your web browser.</p>
-    <pre><code>git clone https://github.com/your-username/your-repo.git
+  <pre><code>git clone https://github.com/yourusername/your-portfolio.git
+</code></pre>
     
     <h2>Contributing</h2>
     <p>If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions of all kinds, from bug fixes to new features and beyond.</p>
