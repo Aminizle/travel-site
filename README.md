@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Travel More, Worry Less</title>
-  </head>
-  <body>
+
     <h1>Travel More, Worry Less</h1>
     <p>Discover the world through this single-page travel site, designed to be fully responsive and optimized for all screen sizes, offering a wealth of features that prioritizes user experience. The site features a convenient navigation menu, seamless integration with social media, and a visually stunning video background.</p>
     
@@ -45,5 +40,3 @@ open index.html</code></pre>
 <p>This project is licensed under the MIT License. Feel free to use and modify this code for your own portfolio.</p>
 
 <p>Made with ❤ by Ameen</p>
-  </body>
-</html>
