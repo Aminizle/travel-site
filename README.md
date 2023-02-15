@@ -1,5 +1,6 @@
 
-<h1>Travel More, Worry Less</h1>
+<title>&#x2708; Travel More, Worry Less</title>
+
 <p>Discover the world through this single-page travel site, designed to be fully responsive and optimized for all screen sizes, offering a wealth of features that prioritizes user experience. The site features a convenient navigation menu, seamless integration with social media, and a visually stunning video background.</p>
     
 <h2>Features</h2>
