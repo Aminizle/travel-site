@@ -20,11 +20,6 @@
 <p>You can check out the live site at <a href="https://ameentravel.netlify.app/">https://ameentravel.netlify.app/</a>.</p>
     
 <h2>License</h2>
-<p>This project is licensed under the MIT license. 
-    
-        
-<h2>License</h2>
-
 <p>This project is licensed under the MIT License. Feel free to use and modify this code for your own portfolio.</p>
 
 <p>Made with ❤ by Ameen</p>
