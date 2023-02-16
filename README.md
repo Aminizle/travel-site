@@ -5,7 +5,7 @@
 <h3 align="center" color="white">Travel Landing page</h2>
 			<div align="center" >  
 				<a href='https://ameentravel.netlify.app/'>
-					<img src="media/travel.gif" alt="Travel site" height="100%" />
+					<img src="Media/travel.gif" alt="Travel site" height="100%" />
 				</a>
 				<br>
 				<br>
