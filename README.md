@@ -2,6 +2,24 @@
 
 <p>Discover the world through this single-page travel site, designed to be fully responsive and optimized for all screen sizes, offering a wealth of features that prioritizes user experience. The site features a convenient navigation menu, seamless integration with social media, and a visually stunning video background.</p>
     
+<h3 align="center" color="white">Travel Landing page</h2>
+			<div align="center" >  
+				<a href='https://ameentravel.netlify.app/'>
+					<img src="travel.gif" alt="Travel site" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/Aminizle/travel-site" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://ameentravel.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - A Minimalistic Travel Landing Page.</p>
+                </div>	
+
 <h2>Features</h2>
 <ul>
 <li>Convenient navigation menu that makes it easy to explore the site</li>
